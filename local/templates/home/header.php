@@ -4,7 +4,7 @@ IncludeTemplateLangFile(__FILE__);
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 
 <head>
   <title>HomeSpace &mdash; Colorlib Website Template</title>
